@@ -1,0 +1,1 @@
+java <Xms> <Xmx> -DGeyser.RakRateLimitingDisabled=true -jar <Server> nogui
